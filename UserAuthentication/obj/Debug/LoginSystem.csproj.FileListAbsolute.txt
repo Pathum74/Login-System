@@ -1,0 +1,28 @@
+E:\C#\BasicLoginSystem\UserAuthentication\bin\Debug\uaDB.mdf
+E:\C#\BasicLoginSystem\UserAuthentication\bin\Debug\uaDB_log.ldf
+E:\C#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+E:\C#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.exe
+E:\C#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.pdb
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.exe
+E:\C#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.pdb
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\bin\Debug\uaDB.mdf
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\bin\Debug\uaDB_log.ldf
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.exe
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\bin\Debug\UserAuthentication.pdb
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.exe
+E:\MY projects\c#\BasicLoginSystem\UserAuthentication\obj\Debug\UserAuthentication.pdb

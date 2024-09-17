@@ -1,0 +1,28 @@
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\bin\Debug\UserAuthentication.exe
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\bin\Debug\UserAuthentication.pdb
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.csproj.GenerateResource.cache
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.exe
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.pdb
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\bin\Debug\uaDB.mdf
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\bin\Debug\uaDB_log.ldf
+C:\Users\MSI\Documents\nsbm\Year 01 semester 02\C#\tutorial\UserAuthentication\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\C#\UserAuthentication - Edit\UserAuthentication\bin\Debug\uaDB.mdf
+E:\C#\UserAuthentication - Edit\UserAuthentication\bin\Debug\uaDB_log.ldf
+E:\C#\UserAuthentication - Edit\UserAuthentication\bin\Debug\UserAuthentication.exe.config
+E:\C#\UserAuthentication - Edit\UserAuthentication\bin\Debug\UserAuthentication.exe
+E:\C#\UserAuthentication - Edit\UserAuthentication\bin\Debug\UserAuthentication.pdb
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.csproj.AssemblyReference.cache
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.frm_Add_User_Admin.resources
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.Frm_login.resources
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.Frm_Home.resources
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.Properties.Resources.resources
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.csproj.GenerateResource.cache
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.csproj.CoreCompileInputs.cache
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.exe
+E:\C#\UserAuthentication - Edit\UserAuthentication\obj\Debug\UserAuthentication.pdb
